@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Strona awaryjna Tykocin24!-kliknij by dowiedzieć się więcej..."
+date:   2018-05-22 15:51:05 +0200
+categories: różne
+---
+Jak widać, są problemy w wyświetlaniem strony tykocin24-online.pl;
+Spowodowane to było, przez wykorzystanie miesięcznego limitu przepustowości, wynikłego przez bardzo wzmożony ruch na stronie, jak tłumaczy dział techniczny hostingu, przez działania robota.
+Pókico, przechodze na wyższy abonament, bez limitu przepustowości; myślę że jutro po poludniu strona znów pojawi się.
+Admin
+
+[kontakt]: admin@tykocin24-online.pl
